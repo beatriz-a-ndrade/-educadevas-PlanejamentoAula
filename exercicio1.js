@@ -1,4 +1,4 @@
-// [Desafio 03] :  Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens
+// [Exercicio 01] :  Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens
 // de acordo com cada situação:
 
  // [Se a media for igual ou maior que 7 - 'Aprovado']
