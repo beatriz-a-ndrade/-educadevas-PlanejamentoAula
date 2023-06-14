@@ -1,4 +1,4 @@
-# {Reprograma} - Educadevas - Sem. 06: Planejamento de Aula <h1>
+# {Educadevas} - Sem. 06: Planejamento de Aula <h1>
 * **Planejamento da aula 2 do primeiro módulo de Backend**: Lógica Aplicada - Condicional e Funções
 
 
