@@ -52,7 +52,7 @@
 **5 -** crie um algoritmo que converte dias em horas, quando recebe um número de dias.
  
  
-## 07. Tempo para cada sessão da aula ⏰: 
+## 07. Tempo para cada sessão da aula ⏰
 * **Introdução**: Revisão dos assuntos da aula passada, averiguar se restam dúvidas e se todas já estão com a instalação das ferramentas - 15 minutos
 * **Sessão teórica**: Explicação dos conceitos e do que se trata Estruturas Condicionais e Funções - 30 minutos
 * **Intervalo**: Pausa para absorver o conteúdo teórico e retornar para a prática - 15 minutos
