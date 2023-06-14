@@ -1,6 +1,6 @@
 # {Educadevas} - Sem. 06: Planejamento de Aula <h1>
   
-### Aula módulo 01: Lógica Aplicada - Condicionais e Funções
+### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções
 * **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
 * **Modelo**: Online | Live
 
