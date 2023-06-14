@@ -1,9 +1,7 @@
 # {Educadevas} - Sem. 06: Planejamento de Aula <h1>
-* **Planejamento da aula 2 do primeiro módulo de Backend**: Lógica Aplicada - Condicional e Funções
-
-
+### Aula módulo 01: Lógica Aplicada - Condicionais e Funções
 * **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
-* **Modelo**: Online| Live
+* **Modelo**: Online | Live
 
 ### 01. Pré-requesitos :memo: <h3>
 * **Conteúdo anterior fixado**: Introdução à lógica de programação, Operadores, Variáveis e Tipos de Dados
