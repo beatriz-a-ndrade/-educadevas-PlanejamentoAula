@@ -52,8 +52,8 @@
 **5 -** crie um algoritmo que converte dias em horas, quando recebe um número de dias.
 
  ## 07. Materiais de referência
-- [JS Docs](https://git-scm.com/docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else): Documentação oficial JS
-- [Artigo Estruturas Condicionais](https://docs.github.com/pt](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611): Artigo sobre Estruturas Condicionais JS
+- [JS Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else): Documentação oficial JS
+- [Artigo Estruturas Condicionais](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611): Artigo sobre Estruturas Condicionais JS
 
 ## 08. Materiais complementares
 - [W3Schools JS Tutorial](https://www.w3schools.com/js/default.asp): Exercícios de comandos básicos
