@@ -1,4 +1,4 @@
-# {Educadevas} - Sem. 06: Planejamento de Aula :purple_heart: <h1>
+# {Educadevas} - Sem. 06: Planejamento de Aula :purple_heart: 
  ![monophy](https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif)
   
 ### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: <h3>
@@ -50,6 +50,7 @@
 **4 -** Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
 **5 -** crie um algoritmo que converte dias em horas, quando recebe um número de dias.
+ 
 
  ## 07. Materiais de referência
 - [JS Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else): Documentação oficial JS
