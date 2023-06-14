@@ -1,7 +1,7 @@
 # {Educadevas} - Sem. 06: Planejamento de Aula :purple_heart: <h1>
  ![monophy](https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif)
   
-### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções
+### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: <h3>
 * **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
 * **Modelo**: Online | Live
 
