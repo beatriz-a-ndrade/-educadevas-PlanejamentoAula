@@ -1,17 +1,16 @@
 # {Reprograma} - Educadevas - Semana 06: Planejamento de Aula: <h1>
-* **Planejamento da aula 2 do primeiro módulo de Backend**: Lógica Aplicada - Loop, Escopo e Função.
+* **Planejamento da aula 2 do primeiro módulo de Backend**: Lógica Aplicada - Condicional e Funções
 
 
-* **Duração**: 5 horas - 4 intervalos de pausas de 15 minutos
+* **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
 * **Modelo**: Online| Live
-Lógica, Operadores e Condicional
 
 ### 01. Pré-requesitos :memo: <h3>
 * **Conteúdo anterior fixado**: Introdução à lógica de programação, Operadores, Variáveis e Tipos de Dados
 * **Ferramentas**: Vscode e NodeJS
 
 ### 02. Conteúdo :memo: <h3>
-* **Lógica Aplicada**: Loop, Escopo, Função;
+* **Lógica Aplicada**: Condicional, Escopo, Função;
 * **Funções:** O que são? Quando usar? Como declarar? Como nomear?;
 * **Escopo:** Refere-se ao lugar em seu algoritmo ou funções ( Escopo global/ Escopo local / Escopo léxico);
 * **Condicional:** Instruções de controle aplicando 2 Estruturas condicionais (if... else) / (switch).
@@ -51,3 +50,10 @@ Lógica, Operadores e Condicional
 **4 -** Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
 **5 -** crie um algoritmo que converte dias em horas, quando recebe um número de dias.
+
+ ## 07. Materiais de referência
+- [JS Docs]([https://git-scm.com/docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)): Documentação oficial JS
+- [Artigo Estruturas Condicionais]([https://docs.github.com/pt](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611)): Artigo sobre Estruturas Condicionais JS
+
+## 08. Materiais complementares
+- [W3Schools JS Tutorial](https://www.w3schools.com/js/default.asp): Exercícios de comandos básicos
