@@ -1,15 +1,15 @@
 # {Educadevas} - Sem. 06: Planejamento de Aula :purple_heart: 
  ![monophy](https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif)
   
-### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: <h3>
+### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: 
 * **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
 * **Modelo**: Online | Live
 
-### 01. Pré-requesitos :memo: <h3>
+### 01. Pré-requesitos :memo: 
 * **Conteúdo anterior fixado**: Introdução à lógica de programação, Operadores, Variáveis e Tipos de Dados
 * **Ferramentas**: Vscode e NodeJS
 
-### 02. Conteúdo :memo: <h3>
+### 02. Conteúdo :memo: 
 * **Lógica Aplicada**: Condicional, Escopo, Função;
 * **Funções:** O que são? Quando usar? Como declarar? Como nomear?;
 * **Escopo:** Refere-se ao lugar em seu algoritmo ou funções ( Escopo global/ Escopo local / Escopo léxico);
