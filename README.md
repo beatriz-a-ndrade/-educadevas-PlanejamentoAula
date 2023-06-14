@@ -52,7 +52,7 @@
 **5 -** crie um algoritmo que converte dias em horas, quando recebe um número de dias.
  
  
-## 07. Tempo para cada sessão da aula
+## 07. Tempo para cada sessão da aula ⏰: 
 * **Introdução**: Revisão dos assuntos da aula passada, averiguar se restam dúvidas e se todas já estão com a instalação das ferramentas - 15 minutos
 * **Sessão teórica**: Explicação dos conceitos e do que se trata Estruturas Condicionais e Funções - 30 minutos
 * **Intervalo**: Pausa para absorver o conteúdo teórico e retornar para a prática - 15 minutos
@@ -60,9 +60,9 @@
 * **Finalização da aula**: Espaço para dúvidas que restaram após a resolução de exercícios em sala e explicar o exercício para casa - 30 minutos 
  
 
- ## 08. Materiais de referência
+ ## 08. Materiais de referência :memo: 
 - [JS Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else): Documentação oficial JS
 - [Artigo Estruturas Condicionais](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611): Artigo sobre Estruturas Condicionais JS
 
-## 09. Materiais complementares
+## 09. Materiais complementares :memo: 
 - [W3Schools JS Tutorial](https://www.w3schools.com/js/default.asp): Exercícios de comandos básicos
