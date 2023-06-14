@@ -1,32 +1,32 @@
 # {Educadevas} - Sem. 06: Planejamento de Aula :purple_heart: 
  ![monophy](https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif)
   
-### 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: 
+## 00. Aula módulo 01: Lógica Aplicada - Condicionais e Funções :computer: 
 * **Duração**: 2 horas - 1 intervalo de pausa de 15 minutos
 * **Modelo**: Online | Live
 
-### 01. Pré-requesitos :memo: 
+## 01. Pré-requesitos :memo: 
 * **Conteúdo anterior fixado**: Introdução à lógica de programação, Operadores, Variáveis e Tipos de Dados
 * **Ferramentas**: Vscode e NodeJS
 
-### 02. Conteúdo :memo: 
+## 02. Conteúdo :memo: 
 * **Lógica Aplicada**: Condicional, Escopo, Função;
 * **Funções:** O que são? Quando usar? Como declarar? Como nomear?;
 * **Escopo:** Refere-se ao lugar em seu algoritmo ou funções ( Escopo global/ Escopo local / Escopo léxico);
 * **Condicional:** Instruções de controle aplicando 2 Estruturas condicionais (if... else) / (switch).
 
-### 03. Objetivo da aula :memo: <h3>
+## 03. Objetivo da aula :memo: 
 * Iniciar com uma breve revisão da aula anterior de Introdução a Lógica de Programação e abrindo espaço para dúvidas restantes ;
 * Entender o que são funções, quando usar, como declarar e como nomea-las ;
 * Compreender a que se refere o escopo, e os tipos existentes ( global, local, léxico) ;
 * Refletir o uso das Estruturas Condicionais, e entender em que casos práticos tais estruturas serão necessárias.
 
-### 04. O que iremos praticar? :muscle:<h3>
+## 04. O que iremos praticar? :muscle:
 * Resolução de problemas matemáticos/lógicos utilizando Estruturas Condicionais;
 * Prática com exemplos resolvidos em sala de aula;
 * Atividade para casa com mais prática (5 questões - Desafios).
   
-### 05. Conhecimentos usados nos estudos/prática :computer: <h3>
+## 05. Conhecimentos usados nos estudos/prática :computer: 
 * Gitbash e Github;
 * Lógica aplicada para resolução de problemas lógicos/ matemáticos;
 * Vscode;
@@ -35,7 +35,7 @@
 * Operadores;
 * Funções;
 
-### 06. Exercícios | Desafios :computer: <h3>
+## 06. Exercícios | Desafios :computer: 
 
 **1 -** Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens de acordo com cada situação:
 
