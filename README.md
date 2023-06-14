@@ -60,9 +60,9 @@
 * **Finalização da aula**: Espaço para dúvidas que restaram após a resolução de exercícios em sala e explicar o exercício para casa - 30 minutos 
  
 
- ## 08. Materiais de referência :memo: 
+ ## 08. Materiais de referência 💻
 - [JS Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else): Documentação oficial JS
 - [Artigo Estruturas Condicionais](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611): Artigo sobre Estruturas Condicionais JS
 
-## 09. Materiais complementares :memo: 
-- [W3Schools JS Tutorial](https://www.w3schools.com/js/default.asp): Exercícios de comandos básicos
+## 09. Materiais complementares 💻
+- [W3Schools JS Tutorial](https://www.w3schools.com/js/js_if_else.asp): Exercícios if/else
